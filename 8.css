@@ -1,0 +1,107 @@
+*
+{
+    margin:0 auto;
+}
+.container
+{
+    background-color: #e4f9f5;
+    max-width: 1000px;
+    margin:0 auto;
+    padding: 30px;
+
+}
+.container .img
+{
+    height:120px;
+    width:100px;
+    border: 3px solid white;
+    border-radius: 50%;
+    float:left;
+    
+}
+.container .bio 
+{
+    float:left;
+    padding: 30px;
+    color:teal;
+}
+.container .contact
+{
+    float:right;
+    padding: 20px;
+}
+.container .contact a
+{
+    text-decoration: none;
+    color:black;
+}
+.container .contact a:hover
+{
+    text-decoration: underline;
+    color:blue;
+    cursor: pointer;
+}
+.div-clear
+{
+    clear:both;
+}
+.hr1
+{
+    border:black solid 3px;
+    width:100%;
+    margin:20px auto;   
+}
+.hr2
+{
+    border:black solid 1px;
+    width:100%;
+    margin:20px auto;
+}
+
+
+.div-left
+{
+    color:teal;
+    float:left;
+    width: 30%;
+}
+
+.div-right
+{
+    color:black;
+    float:left;
+    width:70%;
+}
+.b-left
+{
+    float:left;
+    width:45%;
+}
+.b-right
+{
+    float: right;
+    width:45%;
+}
+footer
+{
+    background-color: black;
+    color:white;
+    text-align: center;
+    padding: 20px;
+}
+footer a
+{
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+    margin-bottom: 20px;
+    margin:20px;
+}
+footer p
+{
+    margin-top: 20px;
+}
+footer a:hover
+{
+    color:blue;
+}
